@@ -47,7 +47,7 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * **Patty Muñoz** - *Actuaria* 
 * **Jessica** - *Ingeniera en sistemas computacionales* 
 * **Karen Elizabeth** - *Estudiante de ingenieria en electronica industrial*
-* **Amizaday Hernandez** - *Estudiante de ingenieria en electronica industrial*
+* **Amizaday Hernandez** - *Estudiante de ingeniería en Software y redes*
 
 
 ## Licencia 📄
