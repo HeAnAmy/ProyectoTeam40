@@ -61,9 +61,10 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Patty Méndez** - *Actuaria* 
+
 * **Jessica** - *Ingeniera en sistemas computacionales* 
 * **Karen Elizabeth** - *Estudiante de ingenieria en electronica industrial*
+* **Ana Patricia Méndez** - *Actuaria* 
 * **Amizaday Hernandez** - *Estudiante de ingeniería en Software y redes*
 
 
