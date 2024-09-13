@@ -13,11 +13,13 @@ _Nuestro objetivo al crear esta base de datos es identificar los vehículos que 
 Este proyecto tiene como propósito contribuir a la disminución de las contingencias ambientales en el país, lo que a su vez podría permitir una mayor flexibilidad en las políticas de circulación, como la posibilidad de que ciertos autos puedan circular los sábados, favoreciendo el tiempo de convivencia familiar durante los días de descanso. unque a primera vista, esto podría parecer un beneficio menor, creemos que pequeños cambios pueden tener un gran impacto a largo plazo. Fomentar una cultura de sostenibilidad, donde la sociedad valore y elija opciones más ecológicas, es un paso fundamental hacia un futuro más limpio y saludable. Al mismo tiempo, estas medidas pueden mejorar la calidad de vida, permitiendo una mayor flexibilidad en la rutina diaria y potenciando el bienestar social. En resumen, buscamos generar una conciencia colectiva que no solo favorezca al medio ambiente, sino también a la comunidad en su conjunto._
 
 ### Una serie de Preguntas: 📋
+*¿Cómo cambian las emisiones de CO2 en función del tipo de combustible empleado, como gasolina o diésel?
+
+*¿Cómo difieren las emisiones de CO2 según el tipo de vehículo, ya sea híbrido o eléctrico?
+
 *¿Qué contamina más un auto de combustión interna al ser conducido día a día durante 6 años o un auto eléctrico al cambiar su batería que tiene una vida útil de 6 años?
 
 *¿Qué tipos de vehículos generan las mayores emisiones de CO2?
-
-*¿Cómo varían las emisiones de CO2 según el tipo de combustible utilizado (gasolina, diésel, híbrido, eléctrico)?
 
 *¿Cuánto contribuyen las emisiones de los autos al cambio climático global en comparación con otras fuentes de gases de efecto invernadero?
 
