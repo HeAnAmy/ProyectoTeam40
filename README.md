@@ -15,17 +15,27 @@ Este proyecto tiene como propósito contribuir a la disminución de las continge
 ### Una serie de Preguntas: 📋
 *¿Cómo cambian las emisiones de CO2 en función del tipo de combustible empleado, como gasolina o diésel?
 
-*¿Cómo difieren las emisiones de CO2 según el tipo de vehículo, ya sea híbrido o eléctrico?
+*¿Cómo difieren las emisiones de CO2 según el tipo de vehículo, ya sea híbrido o eléctrico? 
 
-*¿Qué contamina más un auto de combustión interna al ser conducido día a día durante 6 años o un auto eléctrico al cambiar su batería que tiene una vida útil de 6 años?
+*¿Qué marcas de vehículos generan las mayores emisiones de CO2?
 
-*¿Qué tipos de vehículos generan las mayores emisiones de CO2?
+*
+
+
+
+
+
+
+
+
+
+
+
 
 *¿Cuánto contribuyen las emisiones de los autos al cambio climático global en comparación con otras fuentes de gases de efecto invernadero?
 
+-------Segunda tabla ------------
 *¿Qué tipos de emisiones de los autos son las más dañinas para el clima y cómo se pueden reducir?
-
-*¿Cómo afecta la eficiencia del combustible de los vehículos a las emisiones de CO2 y al cambio climático?
 
 *¿Qué papel juegan los vehículos eléctricos en la reducción de las emisiones de gases de efecto invernadero y son realmente más amigables con el clima?
 
