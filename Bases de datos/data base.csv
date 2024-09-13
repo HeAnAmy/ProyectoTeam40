@@ -1,0 +1,46 @@
+TIPO,MARCA,MODELO,A¤o,Precio,CILINDRADA,Motor,ALIMENTACIàN,POT MAX ,Tracci¢n,Caja de cambios
+SUV Compacto,Subaru,Crosstrek ,2024,"589,900",4 cilindros,2.0 Lts,Gasolina,154 hp,Total,Autom tica
+Hatchback h¡brido,Toyota ,Prius,2024,"484,900",4 cilindros,1.8 Lts,H¡brido,196 hp,Delantera,Autom tica
+Hatchback h¡brido,Toyota ,Prius Prime ,2024,"559,000",4 cilindros,1.8 Lts,H¡brido,220 hp,Delantera,Autom tica
+SUV Compacto,Subaru,Forester ,2024,"669,900",4 cilindros,2.5 Lts,Gasolina,182 hp,Total,Autom tica
+Sed n y Hatchback,Mazda,Mazda 3 ,2024,"538,900",4 cilindros,2.5 Lts,Gasolina,186 hp,Delantera,Autom tica y Manual
+Sed n ,Toyota ,Camry Hybrid ,2024,"618,500",4 cilindros,2.5 Lts,H¡brido,231 hp,Total,Autom tica
+Camioneta compacta,Ford ,Maverick ,2024,"699,000",6 cilindros,2.0 Lts,Gasolina,250 hp,Total,Manual
+Camioneta compacta,Ford ,Maverick Hybrid,2024,"702,000",6 cilindros,2.5 Lts,H¡brido,191 hp,Delantera,Autom tica
+SUV Compacto,Toyota ,RAV4 Prime,2024,"572,800",4 cilindros,2.5 Lts,H¡brido,302 hp,Total,Autom tica
+SUV,Toyota ,Highlander Hybrid,2024,"879,400",4 cilindros,2.5 Lts,H¡brido,243 hp,Delantera Y Total,Autom tica
+SUV de Lujo,BMW,BMW X5 ,2024,"1,660,000",6 cilindros,3.0 Lts,H¡brido,375 hp,Total o Trasera,Autom tica
+SUV de Lujo,BMW,BMW X5 PHEV,2024,"1,660,000",6 cilindros,3.0 Lts,H¡brido,483 hp,Total,Autom tica
+SUV Compacto el‚ctrico,Tesla, Model Y,2024,"803,340",N/A,N/A,El‚ctrico,456 hp,Total,Autom tica
+Sed n,Toyota ,Corolla Hybrid,2023,"500,000",4 cilindros,1.8 Lts,H¡brido,138 hp,Delantera Y Total,Autom tica
+SUV Compacto,Toyota ,Corolla Cross,2023,"534,700",4 cilindros,2.0 Lts,Gasolina,169 hp,Delantera Y Total,Autom tica
+SUV Compacto,Toyota ,Corolla Cross Hybrid,2023,"604,600",4 cilindros,2.0 Lts,H¡brido,196 hp,Delantera Y Total,Autom tica
+SUV Compacto,Subaru,Forester ,2023,"669,900",4 cilindros,2.5 Lts,Gasolina,182 hp,Total,Autom tica
+Camioneta compacta,Ford ,Maverick Hybrid,2023,"840,000",4 cilindros,2.5 Lts,H¡brido,191 hp,Delantera,Autom tica
+Sed n h¡brido,Toyota ,Camry Hybrid ,2023,"599,900",4 cilindros,2.5 Lts,H¡brido,208 hp,Delantera,Autom tica
+Hatchback ,Nissan,Leaf S,2023,"480,000",N/A,N/A,El‚ctrico,147 hp,Delantera,Autom tica
+Hatchback ,Nissan,Leaf SV Plus,2023,"650,000",N/A,N/A,El‚ctrico,214 hp,Delantera,Autom tica
+SUV Compacto H¡brido,Hyundai,Santa Fe Hybrid,2023,"1,050,900",4 cilindros,1.6 Lts,H¡brido,226 hp,Total,Autom tica
+SUV ,Kia,Telluride,2023,"1,189,900",6 cilindros,3.8 Lts,Gasolina,291 hp,Delantera ,Autom tica
+SUV Compacto H¡brido de Lujo,Lexus,Nx350h,2023,"1,050,000",4 cilindros,2.5 Lts,H¡brido,239 hp,Total,Autom tica
+Sed n Compacto El‚ctrico,Tesla,Model 3 Base,2023,"676,500",N/A,N/A,El‚ctrico,271 hp,Trasera,Autom tica
+Sed n Compacto El‚ctrico,Tesla,Model 3 Long Range,2023,"985,900",N/A,N/A,El‚ctrico,384 hp,Total,Autom tica
+Sed n Compacto El‚ctrico,Tesla,Model 3 Base,2023,"1,154,900",N/A,N/A,El‚ctrico,456 hp,Total,Autom tica
+Sed n Compacto,Nissan,Sentra,2022,"367,900",4 cilindros,2.0 Lts,Gasolina,149 hp,Delantera,Autom tica
+SUV Compacto,Nissan,Rogue Sport,2022,"500,000",4 cilindros,2.0 Lts,Gasolina,141 hp,Delantera,Autom tica
+SUV Compacto,Nissan,Rogue Sport,2022,"530,000",4 cilindros,2.0 Lts,Gasolina,141 hp,Delantera,Autom tica
+SUV Compacto,Subaru,Forester ,2022,"600,000",4 cilindros,2.5 Lts,Gasolina,182 hp,Total,Autom tica
+Sed n,Honda ,Accord,2022,"550,000",4 cilindros,1.5 Lts,Gasolina,192 hp,Delantera,Autom tica
+Sed n,Honda ,Accord,2022,"650,000",4 cilindros,2.0 Lts,Gasolina,252 hp,Delantera,Autom tica
+Hatchback h¡brido,Toyota ,Prius,2022,"500,000",4 cilindros,1.8 Lts,H¡brido,121 hp,Delantera,Autom tica
+Hatchback h¡brido,Toyota ,Prius Prime ,2022,"600,000",4 cilindros,1.8 Lts,H¡brido,121 hp,Delantera,Autom tica
+SUV H¡brido,Toyota ,RAV4 Prime,2022,"899,900",4 cilindros,2.5 Lts,H¡brido,302 hp,Total,Autom tica
+SUV,Kia,Telluride,2022,"899,000",6 cilindros,3.8 Lts,Gasolina,291 hp,Delantera,Autom tica
+Camioneta mediana,Honda ,Ridgeline,2022,"850,000",6 cilindros,3.5 Lts,Gasolina,280 hp,Total,Autom tica
+SUV,Ford ,Mustang Mach-E Select,2022,"1,300,000",N/A,N/A,El‚ctrico,266 hp,Trasera,Autom tica
+SUV,Ford ,Mustang Mach-E Select,2022,"1,400,000",N/A,N/A,El‚ctrico,290 hp,Trasera,Autom tica
+SUV,Ford ,Mustang Mach-E Select,2022,"1,450,000",N/A,N/A,El‚ctrico,346 hp,Trasera,Autom tica
+SUV,Ford ,Mustang Mach-E Select,2022,"1,600,000",N/A,N/A,El‚ctrico,480 hp,Trasera,Autom tica
+SUV,Ford ,Mustang Mach-E Select,2022,"1,700,000",N/A,N/A,El‚ctrico,480 hp,Trasera,Autom tica
+,,,,,,,,,,
+,Lexus,RX,2022,,,,,,,
