@@ -19,6 +19,8 @@ Este proyecto tiene como propósito contribuir a la disminución de las continge
 
 *¿Qué marcas de vehículos generan las mayores emisiones de CO2?
 
+*¿Qué contamina más un auto eléctrico, hibrido o de combustión interna?
+
 *¿Qué tipos de emisiones de los autos son las más dañinas para el clima y cómo se pueden reducir?
 
 *¿Cuánto contribuyen las emisiones de los autos al cambio climático global en comparación con otras fuentes de gases de efecto invernadero?
