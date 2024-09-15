@@ -19,17 +19,9 @@ Este proyecto tiene como propósito contribuir a la disminución de las continge
 
 *¿Qué marcas de vehículos generan las mayores emisiones de CO2?
 
-*¿Qué contamina más un auto eléctrico, hibrido o de combustión interna?
-
-*¿Cuáles son las principales afectaciones de la emisión de co2 de los autos en méxico?
-
 *¿Qué tipos de emisiones de los autos son las más dañinas para el clima y cómo se pueden reducir?
 
-*¿Cuánto contribuyen las emisiones de los autos al cambio climático global en comparación con otras fuentes de gases de efecto invernadero?
-
-*¿Qué papel juegan los vehículos eléctricos en la reducción de las emisiones de gases de efecto invernadero y son realmente más amigables con el clima?
-
-*¿Cómo se comparan las emisiones de los autos con las del transporte público y cómo se puede fomentar el uso de este último?
+*¿Cuáles son las principales afectaciones de la emisión de co2 de los autos en méxico?
 
 
 
