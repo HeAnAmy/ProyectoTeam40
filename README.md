@@ -33,8 +33,9 @@ Las emisiones de dióxido de carbono (CO2) generadas por los vehículos de combu
 
 
 ## 6. Entregables
-**-** Código ejecutable en google colab en donde se realizó el preprocesamiento y análisis de la información, el cual contiene la descripción de lo que se fue realizando paso a paso
-**-** Presentación en CANVA con un resumen de los análisis realizados y los resultados obtenidos
+**-** Código ejecutable en google colab en donde se realizó el preprocesamiento y análisis de la información, el cual contiene la descripción de lo que se fue realizando paso a paso.
+
+**-** Presentación en CANVA con un resumen de los análisis realizados y los resultados obtenidos.
 
 ## Construido con 🛠️
 
