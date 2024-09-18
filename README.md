@@ -11,10 +11,11 @@ _Nuestro objetivo al crear esta base de datos es identificar los vehículos que 
 Este proyecto tiene como propósito contribuir a la disminución de las contingencias ambientales en el país, lo que a su vez podría permitir una mayor flexibilidad en las políticas de circulación, como la posibilidad de que ciertos autos puedan circular los sábados, favoreciendo el tiempo de convivencia familiar durante los días de descanso. Aunque a primera vista, esto podría parecer un beneficio menor, creemos que pequeños cambios pueden tener un gran impacto a largo plazo. Fomentar una cultura de sostenibilidad, donde la sociedad valore y elija opciones más ecológicas, es un paso fundamental hacia un futuro más limpio y saludable. Al mismo tiempo, estas medidas pueden mejorar la calidad de vida, permitiendo una mayor flexibilidad en la rutina diaria y potenciando el bienestar social. En resumen, buscamos generar una conciencia colectiva que no solo favorezca al medio ambiente, sino también a la comunidad en su conjunto._
 
 ## 3. Objetivos Particulares
-_**Leer y preprocesar la información** obtenida para garantizar que los datos estén listos para realizar nuestro análisis._
+_**Leer y preprocesar la información** obtenida para garantizar que los datos estén listos para realizar nuestro análisis.
 
-_**Comparar la información** de las marcas de autos vs la emisión de CO2 y la calificación de contaminación del aire con la finalidad de conocer qué marcas de autos son los más contaminantes y los menos contaminantes
-_**Observar Diferencias** en las emisiones de CO2 en función del tipo de combustible que es utilizado por los autos.
+**Comparar la información** de las marcas de autos vs la emisión de CO2 y la calificación de contaminación del aire con la finalidad de conocer qué marcas de autos son los más contaminantes y los menos contaminantes
+
+**Observar Diferencias** en las emisiones de CO2 en función del tipo de combustible que es utilizado por los autos._
 
 ### Una serie de Preguntas: 📋
 *¿Cómo cambian las emisiones de CO2 en función del tipo de combustible empleado, como gasolina o diésel?
