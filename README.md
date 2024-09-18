@@ -1,6 +1,7 @@
 # Emisiones de CO2 en automóviles
 
-_Acá va un párrafo que describa lo que es el proyecto_
+## Introducción
+
 
 ## Comenzando 🚀
 
