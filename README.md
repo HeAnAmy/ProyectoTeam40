@@ -5,14 +5,16 @@
 _Problema: Las emisiones de CO2 generadas por los vehículos de combustión interna contribuyen al cambio climático.
 Las emisiones de dióxido de carbono (CO2) generadas por los vehículos de combustión interna representan uno de los mayores desafíos ambientales en la lucha contra el impacto ambiental. Los automóviles, camiones y otros medios de transporte que utilizan gasolina o diésel emiten grandes cantidades de CO2 y otros gases de efecto invernadero (GEI), los cuales contribuyen significativamente al calentamiento global. A medida que la población en México continúa creciendo y la urbanización se expande, el número de vehículos en las carreteras aumenta, exacerbando este problema._
 
-## 2. Objetivos Generales
+## 2. Objetivo General
 _Nuestro objetivo al crear esta base de datos es identificar los vehículos que tienen un menor impacto ambiental en México. Al ofrecer esta información, buscamos ayudar a los usuarios a tomar decisiones más informadas sobre qué automóvil elegir, no solo en términos de costo económico, sino también considerando su contribución a la reducción de la contaminación.
 
 Este proyecto tiene como propósito contribuir a la disminución de las contingencias ambientales en el país, lo que a su vez podría permitir una mayor flexibilidad en las políticas de circulación, como la posibilidad de que ciertos autos puedan circular los sábados, favoreciendo el tiempo de convivencia familiar durante los días de descanso. Aunque a primera vista, esto podría parecer un beneficio menor, creemos que pequeños cambios pueden tener un gran impacto a largo plazo. Fomentar una cultura de sostenibilidad, donde la sociedad valore y elija opciones más ecológicas, es un paso fundamental hacia un futuro más limpio y saludable. Al mismo tiempo, estas medidas pueden mejorar la calidad de vida, permitiendo una mayor flexibilidad en la rutina diaria y potenciando el bienestar social. En resumen, buscamos generar una conciencia colectiva que no solo favorezca al medio ambiente, sino también a la comunidad en su conjunto._
 
 ## 3. Objetivos Particulares
-_Leer y preprocesar la información obtenida para garantizar que los datos estén listos para realizar nuestro análisis._
+_**Leer y preprocesar la información** obtenida para garantizar que los datos estén listos para realizar nuestro análisis._
 
+_**Comparar la información** de las marcas de autos vs la emisión de CO2 y la calificación de contaminación del aire con la finalidad de conocer qué marcas de autos son los más contaminantes y los menos contaminantes
+_**Observar Diferencias** en las emisiones de CO2 en función del tipo de combustible que es utilizado por los autos.
 
 ### Una serie de Preguntas: 📋
 *¿Cómo cambian las emisiones de CO2 en función del tipo de combustible empleado, como gasolina o diésel?
