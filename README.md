@@ -23,9 +23,7 @@ Las emisiones de dióxido de carbono (CO2) generadas por los vehículos de combu
 ### 5. Una serie de Preguntas: 📋
 *¿Cómo cambian las emisiones de CO2 en función del tipo de combustible empleado, como gasolina o diésel?
 
-*¿Cómo difieren las emisiones de CO2 según el tipo de vehículo, ya sea híbrido o eléctrico? 
-
-*¿Qué marcas de vehículos generan las mayores emisiones de CO2?
+*¿Qué marcas de vehículos generan las mayores y menores emisiones de CO2?
 
 *¿Qué tipos de emisiones de los autos son las más dañinas para el clima y cómo se pueden reducir?
 
