@@ -1,4 +1,4 @@
-# Emisiones de CO2 en automóviles en México
+# Emisiones de CO2 en automóviles
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
