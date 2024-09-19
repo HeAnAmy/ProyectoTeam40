@@ -25,6 +25,8 @@ Las emisiones de dióxido de carbono (CO2) generadas por los vehículos de combu
 
 *¿Qué marcas de vehículos generan las mayores y menores emisiones de CO2?
 
+*¿Cómo difieren las emisiones de CO2 según el tipo de vehículo, ya sea híbrido o eléctrico?
+
 *¿Qué tipos de emisiones de los autos son las más dañinas para el clima y cómo se pueden reducir?
 
 *¿Cuáles son las principales afectaciones de la emisión de co2 de los autos en méxico?
