@@ -31,8 +31,14 @@ Las emisiones de dióxido de carbono (CO2) generadas por los vehículos de combu
 
 *¿Cuáles son las principales afectaciones de la emisión de co2 de los autos en méxico?
 
+## 6. Conclusiones
+El análisis llevado a cabo, nos permitió tener un primer panorama sobre las características de los autos que contribuyen para generar menores emisiones de CO2, como por ejemplo aquellos que usan diesel vs aquellos que utilizan gasolina como combustible, donde se identificó que aquellos autos que usan diesel tienen ligeramente menores emisiones de CO2.
 
-## 6. Entregables
+Asimismo, hemos identificado que los autos con una calificación alta en gases de efecto invernadero, le permite al usuario tener considerables ahorros en su gasto de gasolina, lo cual contribuye a mitigar el calentamiento global. Un ejemplo de ello, son los autos SMART, que de acuerdo con la información analizada tienen la menor emision de CO2 y una calificación en gases de efecto invernadero de 8.
+
+
+
+## 7. Entregables
 **-** Código ejecutable en google colab en donde se realizó el preprocesamiento y análisis de la información, el cual contiene la descripción de lo que se fue realizando paso a paso.
 
 **-** Presentación en CANVA con un resumen de los análisis realizados y los resultados obtenidos.
