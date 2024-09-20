@@ -34,7 +34,7 @@ Las emisiones de dióxido de carbono (CO2) generadas por los vehículos de combu
 ## 6. Conclusiones
 El análisis llevado a cabo, nos permitió tener un primer panorama sobre las características de los autos que contribuyen para generar menores emisiones de CO2, como por ejemplo aquellos que usan diesel vs aquellos que utilizan gasolina como combustible, donde se identificó que aquellos autos que usan diesel tienen ligeramente menores emisiones de CO2.
 
-Asimismo, hemos identificado que los autos con una calificación más cercana a 0 en gases de efecto invernadero, implica un menor rendimiento en cuanto a combustible, lo cual a su vez contribuye a una mayor emisión de CO2, en este caso identificamos que los autos de la marca Bentley son los autos que mayores emisiones tienen, especificamente los del modelo 2016 tienen una calificación de gases de efecto invernadero de 0 y una emisión de 538 g/km de CO2.
+Asimismo, hemos identificado que los autos con una calificación más cercana a 0 en gases de efecto invernadero, implica un menor rendimiento en cuanto a combustible, lo cual a su vez contribuye a una mayor emisión de CO2, en este caso identificamos que los autos de la marca Bentley son los autos que mayores emisiones tienen, especificamente los del modelo 2014 tienen una calificación de gases de efecto invernadero de 0 y una emisión de 627 g/km de CO2.
 
 
 
